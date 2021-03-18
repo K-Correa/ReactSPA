@@ -1,0 +1,16 @@
+html, body{
+    color: black;
+    background-color: #21232a;
+    font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    padding: 20px
+    }
+
+
+.bg-ligth{
+    background-color: white;
+    margin-top: 50px;
+    padding: 50px;
+    border-radius: 20px;
+}
+
